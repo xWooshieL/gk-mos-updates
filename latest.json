@@ -1,10 +1,11 @@
 {
   "version": "0.2.0",
-  "buildId": "20260716-004707",
-  "publishedAt": "2026-07-15T21:53:32Z",
+  "buildId": "20260716-010447",
+  "publishedAt": "2026-07-15T22:09:43Z",
   "fileName": "GK_MOS_Setup_0.2.0.exe",
-  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-004707/GK_MOS_Setup_0.2.0.exe",
-  "sha256": "bc5aaa2bae6ac422ff722c9919f3bd210f2b2f2b2f69cd7662784aa561d8221f",
-  "notes": "Excel save fix for auto-parse; update only if build is newer; show local and remote build; in-app download",
+  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-010447/GK_MOS_Setup_0.2.0.exe",
+  "sha256": "a6e0e08d01ca022f48629ed167eadce5829cab7bef3d04139a4ded0b74481ec8",
+  "notes": "Исправлена запись Excel при автопарсинге (пути с кириллицей). В окне обновления — ваша и новая сборка. Описание на языке интерфейса.",
+  "notesEn": "New build 0.2.0 (20260716-010447)",
   "mandatory": false
 }
