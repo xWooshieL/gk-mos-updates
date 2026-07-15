@@ -5,7 +5,7 @@
   "fileName": "GK_MOS_Setup_0.2.0.exe",
   "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-010447/GK_MOS_Setup_0.2.0.exe",
   "sha256": "a6e0e08d01ca022f48629ed167eadce5829cab7bef3d04139a4ded0b74481ec8",
-  "notes": "Исправлена запись Excel при автопарсинге (пути с кириллицей). В окне обновления — ваша и новая сборка. Описание на языке интерфейса.",
-  "notesEn": "New build 0.2.0 (20260716-010447)",
+  "notes": "Исправлена запись Excel при автопарсинге. В окне обновления видны ваша и новая сборка. Описание показывается на языке интерфейса.",
+  "notesEn": "Fixed Excel save during auto-parse. Update dialog shows your build and the new one. Release notes follow the UI language.",
   "mandatory": false
 }
