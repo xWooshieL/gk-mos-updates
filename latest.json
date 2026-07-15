@@ -5,7 +5,7 @@
   "fileName": "GK_MOS_Setup_0.2.0.exe",
   "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-020336/GK_MOS_Setup_0.2.0.exe",
   "sha256": "d5a21ca4db105a9c14dc786b0a5a919bfa7c837d24a4bc607656cf6d3156cfc5",
-  "notes": "Фикс чтения артикула и завода: WILO/Ridan снова, XGQT через колонку артикула",
-  "notesEn": "New build 0.2.0 (20260716-020336)",
+  "notes": "Фикс колонок артикула и завода: WILO/Ridan снова находятся, XGQT читаются из артикула.",
+  "notesEn": "Fix article/manufacturer columns: WILO/Ridan match again, XGQT read from article column.",
   "mandatory": false
 }
