@@ -1,10 +1,10 @@
 {
-    "version":  "0.2.0",
-    "buildId":  "20260715-234223",
-    "mandatory":  false,
-    "publishedAt":  "2026-07-15T20:49:08Z",
-    "downloadUrl":  "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260715-234223/GK_MOS_Setup_0.2.0.exe",
-    "fileName":  "GK_MOS_Setup_0.2.0.exe",
-    "notes":  "Автопроверка обновлений: канал gk-mos-updates, уведомление о новой сборке даже при той же версии, кнопка в Настройках",
-    "sha256":  "c2e17f0dfc8e007dc29b06f0eee44736d9f8b83e6893d7f47690c9de8ba7cacc"
+  "version": "0.2.0",
+  "buildId": "20260715-234223",
+  "publishedAt": "2026-07-15T20:49:08Z",
+  "fileName": "GK_MOS_Setup_0.2.0.exe",
+  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260715-234223/GK_MOS_Setup_0.2.0.exe",
+  "sha256": "c2e17f0dfc8e007dc29b06f0eee44736d9f8b83e6893d7f47690c9de8ba7cacc",
+  "notes": "Автопроверка обновлений: канал gk-mos-updates, уведомление о новой сборке даже при той же версии, кнопка в Настройках",
+  "mandatory": false
 }
