@@ -1,11 +1,11 @@
 {
   "version": "0.2.0",
-  "buildId": "20260716-010447",
-  "publishedAt": "2026-07-15T22:09:43Z",
+  "buildId": "20260716-012127",
+  "publishedAt": "2026-07-15T22:27:09Z",
   "fileName": "GK_MOS_Setup_0.2.0.exe",
-  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-010447/GK_MOS_Setup_0.2.0.exe",
-  "sha256": "a6e0e08d01ca022f48629ed167eadce5829cab7bef3d04139a4ded0b74481ec8",
-  "notes": "Исправлена запись Excel при автопарсинге. В окне обновления видны ваша и новая сборка. Описание показывается на языке интерфейса.",
-  "notesEn": "Fixed Excel save during auto-parse. Update dialog shows your build and the new one. Release notes follow the UI language.",
+  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-012127/GK_MOS_Setup_0.2.0.exe",
+  "sha256": "83d4065132961c52baba311ea34d9768761608748726758d5a1399c674d17f6f",
+  "notes": "Поиск цен на венторус.рф по артикулу; обновлённый список «Что нового»; скачивание обновлений в приложении",
+  "notesEn": "New build 0.2.0 (20260716-012127)",
   "mandatory": false
 }
