@@ -1,11 +1,11 @@
 {
   "version": "0.2.0",
-  "buildId": "20260716-015235",
-  "publishedAt": "2026-07-15T22:56:59Z",
+  "buildId": "20260716-020336",
+  "publishedAt": "2026-07-15T23:09:12Z",
   "fileName": "GK_MOS_Setup_0.2.0.exe",
-  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-015235/GK_MOS_Setup_0.2.0.exe",
-  "sha256": "9110ecb9642903d3d7693070a9b77c4c825ce451ddc8132b700a42f9889cd1a1",
-  "notes": "Венторус только при пустом заводе/Сантехкомплект; подпись только во время поиска; читаем колонки Компания/Бренд.",
-  "notesEn": "Ventorus only for empty manufacturer/Santech; label only while searching; Company/Brand columns recognized.",
+  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-020336/GK_MOS_Setup_0.2.0.exe",
+  "sha256": "d5a21ca4db105a9c14dc786b0a5a919bfa7c837d24a4bc607656cf6d3156cfc5",
+  "notes": "Фикс чтения артикула и завода: WILO/Ridan снова, XGQT через колонку артикула",
+  "notesEn": "New build 0.2.0 (20260716-020336)",
   "mandatory": false
 }
