@@ -1,10 +1,10 @@
 {
   "version": "0.2.0",
-  "buildId": "20260715-234223",
-  "publishedAt": "2026-07-15T20:49:08Z",
+  "buildId": "20260716-004707",
+  "publishedAt": "2026-07-15T21:53:32Z",
   "fileName": "GK_MOS_Setup_0.2.0.exe",
-  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260715-234223/GK_MOS_Setup_0.2.0.exe",
-  "sha256": "c2e17f0dfc8e007dc29b06f0eee44736d9f8b83e6893d7f47690c9de8ba7cacc",
-  "notes": "Автопроверка обновлений: канал gk-mos-updates, уведомление о новой сборке даже при той же версии, кнопка в Настройках",
+  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-004707/GK_MOS_Setup_0.2.0.exe",
+  "sha256": "bc5aaa2bae6ac422ff722c9919f3bd210f2b2f2b2f69cd7662784aa561d8221f",
+  "notes": "Excel save fix for auto-parse; update only if build is newer; show local and remote build; in-app download",
   "mandatory": false
 }
