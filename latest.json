@@ -5,7 +5,7 @@
   "fileName": "GK_MOS_Setup_0.2.0.exe",
   "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-022358/GK_MOS_Setup_0.2.0.exe",
   "sha256": "37e0d2c39626430864c5e104779c97d38406eb2449de5bd8d475ffb060bf3408",
-  "notes": "Вернули поиск как в 0.1.6/0.1.7 — только база, без венторус.рф",
-  "notesEn": "New build 0.2.0 (20260716-022358)",
+  "notes": "Вернули поиск как в 0.1.6/0.1.7 — только база, без венторус.рф.",
+  "notesEn": "Restored 0.1.6/0.1.7 DB-only matching — no ventorus.rf web search.",
   "mandatory": false
 }
