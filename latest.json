@@ -1,11 +1,11 @@
 {
   "version": "0.2.0",
-  "buildId": "20260716-013157",
-  "publishedAt": "2026-07-15T22:35:59Z",
+  "buildId": "20260716-014034",
+  "publishedAt": "2026-07-15T22:44:20Z",
   "fileName": "GK_MOS_Setup_0.2.0.exe",
-  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-013157/GK_MOS_Setup_0.2.0.exe",
-  "sha256": "8152afb0b7c88a7abcff3fa503c48ca454948235ab8e412486ba2f20ec468c5d",
-  "notes": "Проверка обновлений без перезапуска — свежий манифест сразу.",
-  "notesEn": "Update check without restart — fresh manifest immediately.",
+  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-014034/GK_MOS_Setup_0.2.0.exe",
+  "sha256": "16197588a49170823c40a2749b5a25409418dc93f25e18d637dd0eb7661a4bf5",
+  "notes": "Быстрый поиск венторус: один ajax по артикулу, без медленного santech.ru",
+  "notesEn": "New build 0.2.0 (20260716-014034)",
   "mandatory": false
 }
