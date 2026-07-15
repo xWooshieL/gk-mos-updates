@@ -1,11 +1,11 @@
 {
   "version": "0.2.0",
-  "buildId": "20260716-020336",
-  "publishedAt": "2026-07-15T23:09:12Z",
+  "buildId": "20260716-022358",
+  "publishedAt": "2026-07-15T23:28:43Z",
   "fileName": "GK_MOS_Setup_0.2.0.exe",
-  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-020336/GK_MOS_Setup_0.2.0.exe",
-  "sha256": "d5a21ca4db105a9c14dc786b0a5a919bfa7c837d24a4bc607656cf6d3156cfc5",
-  "notes": "Фикс колонок артикула и завода: WILO/Ridan снова находятся, XGQT читаются из артикула.",
-  "notesEn": "Fix article/manufacturer columns: WILO/Ridan match again, XGQT read from article column.",
+  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-022358/GK_MOS_Setup_0.2.0.exe",
+  "sha256": "37e0d2c39626430864c5e104779c97d38406eb2449de5bd8d475ffb060bf3408",
+  "notes": "Вернули поиск как в 0.1.6/0.1.7 — только база, без венторус.рф",
+  "notesEn": "New build 0.2.0 (20260716-022358)",
   "mandatory": false
 }
