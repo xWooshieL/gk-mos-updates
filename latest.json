@@ -5,7 +5,7 @@
   "fileName": "GK_MOS_Setup_0.2.0.exe",
   "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-023329/GK_MOS_Setup_0.2.0.exe",
   "sha256": "d4bc72b90ac6a36aa30adcae04e9a41ecd986603f2524f1b980c0f23fc112201",
-  "notes": "Santech smart 0.2.0 matcher; WILO/Ridan as 0.1.7; no web search",
-  "notesEn": "Santech smart 0.2.0 matcher; WILO/Ridan as 0.1.7; no web search",
+  "notes": "Сантехкомплект: умный матчинг 0.2.0; WILO/Ridan как в 0.1.7; без веб-поиска.",
+  "notesEn": "Santech: smart 0.2.0 matcher; WILO/Ridan as in 0.1.7; no web search.",
   "mandatory": false
 }
