@@ -1,0 +1,10 @@
+﻿{
+  "version": "0.2.0",
+  "buildId": "20260715-seed",
+  "publishedAt": "2026-07-15T20:00:00Z",
+  "fileName": "ГК_МОС_Setup_0.2.0.exe",
+  "downloadUrl": "",
+  "sha256": "",
+  "notes": "Канал обновлений инициализирован. Следующая публикация setup заменит эту запись.",
+  "mandatory": false
+}
