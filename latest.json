@@ -5,7 +5,7 @@
   "fileName": "GK_MOS_Setup_0.2.0.exe",
   "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-014034/GK_MOS_Setup_0.2.0.exe",
   "sha256": "16197588a49170823c40a2749b5a25409418dc93f25e18d637dd0eb7661a4bf5",
-  "notes": "Быстрый поиск венторус: один ajax по артикулу, без медленного santech.ru",
-  "notesEn": "New build 0.2.0 (20260716-014034)",
+  "notes": "Быстрый поиск венторус: один ajax по артикулу, без медленного santech.ru.",
+  "notesEn": "Fast Ventorus lookup: one ajax by article, no slow santech.ru web search.",
   "mandatory": false
 }
