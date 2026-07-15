@@ -5,7 +5,7 @@
   "fileName": "GK_MOS_Setup_0.2.0.exe",
   "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-012127/GK_MOS_Setup_0.2.0.exe",
   "sha256": "83d4065132961c52baba311ea34d9768761608748726758d5a1399c674d17f6f",
-  "notes": "Поиск цен на венторус.рф по артикулу; обновлённый список «Что нового»; скачивание обновлений в приложении",
-  "notesEn": "New build 0.2.0 (20260716-012127)",
+  "notes": "Поиск цен на венторус.рф только по артикулу. Обновлён список «Что нового». Скачивание обновлений внутри приложения.",
+  "notesEn": "Price search on ventorus.rf by article only. Updated What's new list. In-app update downloads.",
   "mandatory": false
 }
