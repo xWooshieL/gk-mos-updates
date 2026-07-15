@@ -1,11 +1,11 @@
 {
   "version": "0.2.0",
-  "buildId": "20260716-014034",
-  "publishedAt": "2026-07-15T22:44:20Z",
+  "buildId": "20260716-015235",
+  "publishedAt": "2026-07-15T22:56:59Z",
   "fileName": "GK_MOS_Setup_0.2.0.exe",
-  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-014034/GK_MOS_Setup_0.2.0.exe",
-  "sha256": "16197588a49170823c40a2749b5a25409418dc93f25e18d637dd0eb7661a4bf5",
-  "notes": "Быстрый поиск венторус: один ajax по артикулу, без медленного santech.ru.",
-  "notesEn": "Fast Ventorus lookup: one ajax by article, no slow santech.ru web search.",
+  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-015235/GK_MOS_Setup_0.2.0.exe",
+  "sha256": "9110ecb9642903d3d7693070a9b77c4c825ce451ddc8132b700a42f9889cd1a1",
+  "notes": "Венторус только для пустого/Сантехкомплект; подпись только во время поиска; колонки Компания/Бренд",
+  "notesEn": "New build 0.2.0 (20260716-015235)",
   "mandatory": false
 }
