@@ -5,7 +5,7 @@
   "fileName": "GK_MOS_Setup_0.2.0.exe",
   "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-015235/GK_MOS_Setup_0.2.0.exe",
   "sha256": "9110ecb9642903d3d7693070a9b77c4c825ce451ddc8132b700a42f9889cd1a1",
-  "notes": "Венторус только для пустого/Сантехкомплект; подпись только во время поиска; колонки Компания/Бренд",
-  "notesEn": "New build 0.2.0 (20260716-015235)",
+  "notes": "Венторус только при пустом заводе/Сантехкомплект; подпись только во время поиска; читаем колонки Компания/Бренд.",
+  "notesEn": "Ventorus only for empty manufacturer/Santech; label only while searching; Company/Brand columns recognized.",
   "mandatory": false
 }
