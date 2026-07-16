@@ -1,11 +1,11 @@
 {
   "version": "0.2.0",
-  "buildId": "20260716-205202",
-  "publishedAt": "2026-07-16T17:56:06Z",
+  "buildId": "20260716-211243",
+  "publishedAt": "2026-07-16T18:16:17Z",
   "fileName": "GK_MOS_Setup_0.2.0.exe",
-  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-205202/GK_MOS_Setup_0.2.0.exe",
-  "sha256": "f7cc70841014d0c6bda8c55c6a3ea68f9c5fb04d0798e040bb0c91ed9f421663",
-  "notes": "Парсинг Сантех: артикул из карточки (Артикул), не номенклатура и не NEW-20.",
-  "notesEn": "Santech parse: article from product card properties, not nomenclature/NEW-20.",
+  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-211243/GK_MOS_Setup_0.2.0.exe",
+  "sha256": "9a9db622742ab023647964d78201c4e416bc65b6371f49a80ac961e4cf15d9cb",
+  "notes": "Матчинг: WILO soft-specs, Сантехкомплект smart-match, артикул из карточки товара",
+  "notesEn": "New build 0.2.0 (20260716-211243)",
   "mandatory": false
 }
