@@ -1,11 +1,11 @@
 {
   "version": "0.2.0",
-  "buildId": "20260716-212910",
-  "publishedAt": "2026-07-16T18:33:24Z",
+  "buildId": "20260716-213708",
+  "publishedAt": "2026-07-16T18:41:02Z",
   "fileName": "GK_MOS_Setup_0.2.0.exe",
-  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-212910/GK_MOS_Setup_0.2.0.exe",
-  "sha256": "4af3b5c7021d91d3e9de0779070444372fa2beed11cf61e0df6d389552e8cf8a",
-  "notes": "Выход из аккаунта останавливает парсинг и обработку файлов",
-  "notesEn": "New build 0.2.0 (20260716-212910)",
+  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-213708/GK_MOS_Setup_0.2.0.exe",
+  "sha256": "e2197330884eeb9d5ba79083b59d98e4995e61426f4c2f85a189b46422c49d63",
+  "notes": "Парсинг снова без HTTP на каждый вариант; артикул из названия; пробел не жмет кнопки",
+  "notesEn": "New build 0.2.0 (20260716-213708)",
   "mandatory": false
 }
