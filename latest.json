@@ -5,7 +5,7 @@
   "fileName": "GK_MOS_Setup_0.2.0.exe",
   "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-205202/GK_MOS_Setup_0.2.0.exe",
   "sha256": "f7cc70841014d0c6bda8c55c6a3ea68f9c5fb04d0798e040bb0c91ed9f421663",
-  "notes": "Парсинг Сантех: артикул из карточки товара (не номенклатура/NEW-20)",
-  "notesEn": "New build 0.2.0 (20260716-205202)",
+  "notes": "Парсинг Сантех: артикул из карточки (Артикул), не номенклатура и не NEW-20.",
+  "notesEn": "Santech parse: article from product card properties, not nomenclature/NEW-20.",
   "mandatory": false
 }
