@@ -1,11 +1,11 @@
 {
   "version": "0.2.0",
-  "buildId": "20260716-023329",
-  "publishedAt": "2026-07-15T23:45:31Z",
+  "buildId": "20260716-205202",
+  "publishedAt": "2026-07-16T17:56:06Z",
   "fileName": "GK_MOS_Setup_0.2.0.exe",
-  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-023329/GK_MOS_Setup_0.2.0.exe",
-  "sha256": "d4bc72b90ac6a36aa30adcae04e9a41ecd986603f2524f1b980c0f23fc112201",
-  "notes": "Сантехкомплект: умный матчинг 0.2.0; WILO/Ridan как в 0.1.7; без веб-поиска.",
-  "notesEn": "Santech: smart 0.2.0 matcher; WILO/Ridan as in 0.1.7; no web search.",
+  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-205202/GK_MOS_Setup_0.2.0.exe",
+  "sha256": "f7cc70841014d0c6bda8c55c6a3ea68f9c5fb04d0798e040bb0c91ed9f421663",
+  "notes": "Парсинг Сантех: артикул из карточки товара (не номенклатура/NEW-20)",
+  "notesEn": "New build 0.2.0 (20260716-205202)",
   "mandatory": false
 }
