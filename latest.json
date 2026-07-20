@@ -1,11 +1,11 @@
 {
   "version": "0.2.0",
-  "buildId": "20260716-213708",
-  "publishedAt": "2026-07-16T18:41:02Z",
+  "buildId": "20260720-163322",
+  "publishedAt": "2026-07-20T13:39:56Z",
   "fileName": "GK_MOS_Setup_0.2.0.exe",
-  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260716-213708/GK_MOS_Setup_0.2.0.exe",
-  "sha256": "e2197330884eeb9d5ba79083b59d98e4995e61426f4c2f85a189b46422c49d63",
-  "notes": "Парсинг снова без HTTP на каждый вариант; артикул из названия; пробел не жмет кнопки",
-  "notesEn": "New build 0.2.0 (20260716-213708)",
+  "downloadUrl": "https://github.com/xWooshieL/gk-mos-updates/releases/download/build-20260720-163322/GK_MOS_Setup_0.2.0.exe",
+  "sha256": "aea322874c0459a32ba78432635338dd1e3d2906515f18cbac0d342007c3f75c",
+  "notes": "0.2.0: обновление прайсов CNP/Ридан, роли и админ-панель, вкладка Оценка, новый парсинг и слияние, фикс матчинга XGQTх-кодов",
+  "notesEn": "New build 0.2.0 (20260720-163322)",
   "mandatory": false
 }
